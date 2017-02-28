@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week2\PointClass\PointClass\bin\Debug\PointClass.exe.config
+C:\Users\Bobur\Desktop\PT\week2\PointClass\PointClass\bin\Debug\PointClass.exe
+C:\Users\Bobur\Desktop\PT\week2\PointClass\PointClass\bin\Debug\PointClass.pdb
+C:\Users\Bobur\Desktop\PT\week2\PointClass\PointClass\obj\Debug\PointClass.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week2\PointClass\PointClass\obj\Debug\PointClass.exe
+C:\Users\Bobur\Desktop\PT\week2\PointClass\PointClass\obj\Debug\PointClass.pdb

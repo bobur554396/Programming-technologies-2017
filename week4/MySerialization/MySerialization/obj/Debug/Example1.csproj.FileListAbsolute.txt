@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week4\MySerialization\MySerialization\bin\Debug\MySerialization.exe.config
+C:\Users\Bobur\Desktop\PT\week4\MySerialization\MySerialization\bin\Debug\MySerialization.exe
+C:\Users\Bobur\Desktop\PT\week4\MySerialization\MySerialization\bin\Debug\MySerialization.pdb
+C:\Users\Bobur\Desktop\PT\week4\MySerialization\MySerialization\obj\Debug\Example1.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week4\MySerialization\MySerialization\obj\Debug\MySerialization.exe
+C:\Users\Bobur\Desktop\PT\week4\MySerialization\MySerialization\obj\Debug\MySerialization.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week3\MyStack\MyStack\bin\Debug\MyStack.exe.config
+C:\Users\Bobur\Desktop\PT\week3\MyStack\MyStack\bin\Debug\MyStack.exe
+C:\Users\Bobur\Desktop\PT\week3\MyStack\MyStack\bin\Debug\MyStack.pdb
+C:\Users\Bobur\Desktop\PT\week3\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week3\MyStack\MyStack\obj\Debug\MyStack.exe
+C:\Users\Bobur\Desktop\PT\week3\MyStack\MyStack\obj\Debug\MyStack.pdb

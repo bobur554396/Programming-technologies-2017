@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\week2\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.exe.config
+C:\Users\Bobur\Desktop\PT\week2\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.exe
+C:\Users\Bobur\Desktop\PT\week2\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.pdb
+C:\Users\Bobur\Desktop\PT\week2\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.exe
+C:\Users\Bobur\Desktop\PT\week2\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.pdb

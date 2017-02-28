@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\week6\SaveData\Xml\bin\Debug\Xml.exe.config
+C:\Users\Bobur\Desktop\PT\week6\SaveData\Xml\bin\Debug\Xml.exe
+C:\Users\Bobur\Desktop\PT\week6\SaveData\Xml\bin\Debug\Xml.pdb
+C:\Users\Bobur\Desktop\PT\week6\SaveData\Xml\obj\Debug\Xml.exe
+C:\Users\Bobur\Desktop\PT\week6\SaveData\Xml\obj\Debug\Xml.pdb

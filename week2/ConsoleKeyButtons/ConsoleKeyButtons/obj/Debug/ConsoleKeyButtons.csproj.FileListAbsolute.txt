@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week2\ConsoleKeyButtons\ConsoleKeyButtons\bin\Debug\ConsoleKeyButtons.exe.config
+C:\Users\Bobur\Desktop\PT\week2\ConsoleKeyButtons\ConsoleKeyButtons\bin\Debug\ConsoleKeyButtons.exe
+C:\Users\Bobur\Desktop\PT\week2\ConsoleKeyButtons\ConsoleKeyButtons\bin\Debug\ConsoleKeyButtons.pdb
+C:\Users\Bobur\Desktop\PT\week2\ConsoleKeyButtons\ConsoleKeyButtons\obj\Debug\ConsoleKeyButtons.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week2\ConsoleKeyButtons\ConsoleKeyButtons\obj\Debug\ConsoleKeyButtons.exe
+C:\Users\Bobur\Desktop\PT\week2\ConsoleKeyButtons\ConsoleKeyButtons\obj\Debug\ConsoleKeyButtons.pdb

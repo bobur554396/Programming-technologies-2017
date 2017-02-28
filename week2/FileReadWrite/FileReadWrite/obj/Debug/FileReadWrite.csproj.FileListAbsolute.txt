@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week2\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe.config
+C:\Users\Bobur\Desktop\PT\week2\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe
+C:\Users\Bobur\Desktop\PT\week2\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.pdb
+C:\Users\Bobur\Desktop\PT\week2\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week2\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.exe
+C:\Users\Bobur\Desktop\PT\week2\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week6\SaveData\SaveData\bin\Debug\SaveData.exe.config
+C:\Users\Bobur\Desktop\PT\week6\SaveData\SaveData\bin\Debug\SaveData.exe
+C:\Users\Bobur\Desktop\PT\week6\SaveData\SaveData\bin\Debug\SaveData.pdb
+C:\Users\Bobur\Desktop\PT\week6\SaveData\SaveData\obj\Debug\SaveData.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week6\SaveData\SaveData\obj\Debug\SaveData.exe
+C:\Users\Bobur\Desktop\PT\week6\SaveData\SaveData\obj\Debug\SaveData.pdb

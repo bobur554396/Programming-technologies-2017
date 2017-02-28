@@ -1,0 +1,11 @@
+C:\Users\Бобур\Desktop\PT\week1\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\Бобур\Desktop\PT\week1\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\Users\Бобур\Desktop\PT\week1\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\Users\Бобур\Desktop\PT\week1\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\Users\Бобур\Desktop\PT\week1\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+C:\Users\Bobur\Desktop\PT\week1\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\Bobur\Desktop\PT\week1\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\Users\Bobur\Desktop\PT\week1\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+C:\Users\Bobur\Desktop\PT\week1\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\Users\Bobur\Desktop\PT\week1\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\Users\Bobur\Desktop\PT\week1\ClassExample\ClassExample\obj\Debug\ClassExample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week2\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+C:\Users\Bobur\Desktop\PT\week2\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+C:\Users\Bobur\Desktop\PT\week2\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+C:\Users\Bobur\Desktop\PT\week2\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week2\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+C:\Users\Bobur\Desktop\PT\week2\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\week7\MyThread\ThreadClass\bin\Debug\ThreadClass.exe.config
+C:\Users\Bobur\Desktop\PT\week7\MyThread\ThreadClass\bin\Debug\ThreadClass.exe
+C:\Users\Bobur\Desktop\PT\week7\MyThread\ThreadClass\bin\Debug\ThreadClass.pdb
+C:\Users\Bobur\Desktop\PT\week7\MyThread\ThreadClass\obj\Debug\ThreadClass.exe
+C:\Users\Bobur\Desktop\PT\week7\MyThread\ThreadClass\obj\Debug\ThreadClass.pdb

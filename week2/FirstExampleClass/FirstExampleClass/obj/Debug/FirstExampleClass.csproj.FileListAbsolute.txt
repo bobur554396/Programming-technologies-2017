@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week2\FirstExampleClass\FirstExampleClass\bin\Debug\FirstExampleClass.exe.config
+C:\Users\Bobur\Desktop\PT\week2\FirstExampleClass\FirstExampleClass\bin\Debug\FirstExampleClass.exe
+C:\Users\Bobur\Desktop\PT\week2\FirstExampleClass\FirstExampleClass\bin\Debug\FirstExampleClass.pdb
+C:\Users\Bobur\Desktop\PT\week2\FirstExampleClass\FirstExampleClass\obj\Debug\FirstExampleClass.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week2\FirstExampleClass\FirstExampleClass\obj\Debug\FirstExampleClass.exe
+C:\Users\Bobur\Desktop\PT\week2\FirstExampleClass\FirstExampleClass\obj\Debug\FirstExampleClass.pdb

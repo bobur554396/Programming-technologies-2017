@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\week7\MyThread\MyThread\bin\Debug\MyThread.exe.config
+C:\Users\Bobur\Desktop\PT\week7\MyThread\MyThread\bin\Debug\MyThread.exe
+C:\Users\Bobur\Desktop\PT\week7\MyThread\MyThread\bin\Debug\MyThread.pdb
+C:\Users\Bobur\Desktop\PT\week7\MyThread\MyThread\obj\Debug\MyThread.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\week7\MyThread\MyThread\obj\Debug\MyThread.exe
+C:\Users\Bobur\Desktop\PT\week7\MyThread\MyThread\obj\Debug\MyThread.pdb
