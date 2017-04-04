@@ -70,5 +70,7 @@ namespace PaintClass
         {
             btm.Save(filename);
         }
+
+        // write function for file open
     }
 }

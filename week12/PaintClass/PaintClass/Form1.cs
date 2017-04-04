@@ -17,7 +17,6 @@ namespace PaintClass
         {
             InitializeComponent();
             paint = new PaintBase(pictureBox1);
-
         }
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
@@ -51,11 +50,12 @@ namespace PaintClass
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             openFileDialog1.ShowDialog();
+            // load selected picture to Bitmap in PaintBase class
         }
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            saveFileDialog1.Filter = "JPG file|*.jpg";
+            saveFileDialog1.Filter = "JPG file|*.jpg|PNG files|*.png";
             if(saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 paint.SaveImage(saveFileDialog1.FileName);
