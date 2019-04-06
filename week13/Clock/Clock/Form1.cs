@@ -55,7 +55,7 @@ namespace Clock
             g.DrawEllipse(pen, 100, 100, radius*2, radius*2);
 
             path.Reset();
-            path.AddLine(200, 200, end.X, end.Y);
+            path.AddLine(center.X, center.Y, end.X, end.Y);
 
             g.DrawPath(pen, path);
         }
